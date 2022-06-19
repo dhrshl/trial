@@ -1,2 +1,2 @@
 # trial
-trial programs
+trial program.
